@@ -1,0 +1,230 @@
+@media only screen and (max-width: 276px){
+    nav{
+        width: 100%;
+    }
+
+nav a{
+margin-left: -20px;
+}
+
+
+
+
+.img{
+    width: 340%;
+}
+.jami{
+    width: 250%;
+
+}
+
+
+.box1 h6{
+text-align: center;
+position: relative;
+left: 400px;
+}
+
+
+.box1 h3{
+    text-align: center;
+    position: relative;
+    left: 400px;
+    }
+
+
+
+
+.box1 p{
+text-align: center;
+position: relative;
+left: 400px;
+}
+
+
+
+
+.div{
+    width: 100%;
+}
+
+
+.div6 img{
+    width: 336%;
+}
+
+.div6 h2{
+    width: 120%;
+}
+
+
+.div6 h5{
+    width: 170%;
+}
+
+
+.divjami{
+    position: relative;
+    left: 400px;
+}
+
+
+.text h1{
+    width: 190%;
+}
+
+.text p{
+    width: 290%;
+}
+
+
+
+.divjami111{
+    position: relative;
+    left: 400px;
+
+}
+
+.foteer2 h2{
+    width: 390%;
+    
+}
+
+
+.foteer2 p{
+width: 700%;
+}
+
+.foteer2{
+    padding: 0 200px;
+}
+
+.foteer3{
+    width: 343%;
+}
+
+
+
+.footer{
+   display: none;
+}
+
+
+
+
+
+
+
+
+}
+
+@media screen and (max-width: 600px){
+    nav{
+        width: 100%;
+    }
+
+nav a{
+margin-left: -20px;
+}
+
+
+
+
+.img{
+    width: 340%;
+}
+.jami{
+    width: 250%;
+
+}
+
+
+.box1 h6{
+text-align: center;
+position: relative;
+left: 400px;
+}
+
+
+.box1 h3{
+    text-align: center;
+    position: relative;
+    left: 400px;
+    }
+
+
+
+
+.box1 p{
+text-align: center;
+position: relative;
+left: 400px;
+}
+
+
+
+
+.div{
+    width: 100%;
+}
+
+
+.div6 img{
+    width: 336%;
+}
+
+.div6 h2{
+    width: 120%;
+}
+
+
+.div6 h5{
+    width: 170%;
+}
+
+
+.divjami{
+    position: relative;
+    left: 400px;
+}
+
+
+.text h1{
+    width: 190%;
+}
+
+.text p{
+    width: 290%;
+}
+
+
+
+.divjami111{
+    position: relative;
+    left: 400px;
+
+}
+
+.foteer2 h2{
+    width: 390%;
+    
+}
+
+
+.foteer2 p{
+width: 700%;
+}
+
+.foteer2{
+    padding: 0 200px;
+}
+
+.foteer3{
+    width: 343%;
+}
+
+
+
+.footer{
+   display: none;
+}
